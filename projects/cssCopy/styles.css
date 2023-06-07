@@ -1,0 +1,36 @@
+#box-practice-1 {
+    border: 5px;
+    border-color: green;
+    border-style: dotted;
+    background-color: yellow;
+    width: 50%;
+}
+
+#box-practice-2 {
+    border: 5px;
+    border-color: orange;
+    color: lightgray;
+    border-style: dashed;
+    background-color: grey;
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+.box-practice-3 {
+    float: left;
+    background-color: purple;
+    width: 24%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 1%;
+    color: white;
+ }
+
+#box-practice-4 {
+   float: right;
+   background-color: pink;
+   width: 50%;
+   padding-top: 25px;
+   padding-bottom: 25px;
+}
